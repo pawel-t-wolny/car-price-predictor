@@ -9,8 +9,8 @@ market.
 That is why I decided to create a machine learning model that makes it easy to spot hot
 deals on the car market!
 
-This project is based on a [DVM Car dataset](https://deepvisualmarketing.github.io/) containing 268255 car sale entries, with a 
-detailed specification of the each sold car. 
+This project is based on a [DVM Car dataset](https://deepvisualmarketing.github.io/) containing 
+268255 car sale entries in the UK, with a detailed specification of the each sold car. 
 
 Here is a little bit of insight into the dataset:
 
