@@ -1,4 +1,4 @@
-*Work in progress :)*
+⚙️ Work in progress ⚙️
 ## Second-hand Market Car Price Predictor 🚘
 
 Shopping for a used car can be challenging due to the complexity of factors like mileage, 
