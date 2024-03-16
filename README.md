@@ -1,4 +1,3 @@
-⚙️ Work in progress ⚙️
 ## Second-hand Market Car Price Predictor 🚘
 
 Shopping for a used car can be challenging due to the complexity of factors like mileage, 
@@ -7,16 +6,12 @@ reliable and reasonably priced car can be overwhelming, especially for newcomers
 market.
 
 That is why I decided to create a machine learning model that makes it easy to spot hot
-deals on the car market!
+deals on the car market!🔥
 
 This project is based on a [DVM Car dataset](https://deepvisualmarketing.github.io/) containing 
 268255 car sale entries in the UK, with a detailed specification of each sold car. 
 
-Here is a little bit of insight into the dataset:
+The two regression models that have been compared were k-nearest neighbors and random forest🤖
 
-<img width="349" alt="Screenshot 2023-12-04 at 12 33 50" src="https://github.com/pawel-t-wolny/car-price-predictor/assets/146446693/8cdd8e33-2220-445e-b36f-17788957deb0">
+The entire project along with the detailed results have been summarised in form of a paper in report.pdf📝
 
-
-Currently I am working on exploratory analysis and cleanup of the data.
-
-For now the leading idea is to utilize the k-nearest neighbors algorithm for predicting the prices.
