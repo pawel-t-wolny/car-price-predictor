@@ -5,7 +5,7 @@ model, and engine type that influence its value. Without technical expertise, fi
 reliable and reasonably priced car can be overwhelming, especially for newcomers in the 
 market.
 
-That is why I decided to create a machine learning model that makes it easy to spot hot
+That is why I decided to create a machine-learning model that makes it easy to spot hot
 deals on the car market!
 
 This project is based on a [DVM Car dataset](https://deepvisualmarketing.github.io/) containing 
@@ -13,5 +13,5 @@ This project is based on a [DVM Car dataset](https://deepvisualmarketing.github.
 
 The two regression models that have been compared were k-nearest neighbors and random forest.
 
-The entire project along with the detailed results have been summarised in form of a paper in report.pdf..
+The entire project along with the detailed results have been summarised in form of a paper in report.pdf.
 
